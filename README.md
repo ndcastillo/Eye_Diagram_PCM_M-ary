@@ -42,10 +42,10 @@ With a Digital System without Noise, The ideal eye diagram don't have ISI and yo
 
 ![](img/2022-06-09-13-18-34-image.png)
 
-## Eye Diagram For M = 2 with Noise
+## Eye Diagram For M = 4 with Noise
 
 ![](img/2022-06-09-13-18-50-image.png)
 
-## Eye Diagram For M = 2 with Noise and LowPass Filter fc=0.975
+## Eye Diagram For M = 4 with Noise and LowPass Filter fc=0.975
 
 ![](img/2022-06-09-13-19-05-image.png)
